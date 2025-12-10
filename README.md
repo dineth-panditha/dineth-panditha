@@ -1,100 +1,90 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+👋+I'm+Dineth+Panditha;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+ 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;USER:+DINETH+PANDITHA;INITIATING+FULL+STACK+PROTOCOLS...;WELCOME+TO+THE+MAINFRAME." alt="Typing SVG" />
+
+ <p align="center">
+    <a href="https://www.dinethpanditha.com/" target="_blank">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=00F0FF&borderColor=00F0FF" alt="Portfolio">
+    </a>
+    <a href="mailto:contact@dinethpanditha.com">
+        <img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00" alt="Email">
+    </a>
+    <a href="https://linktr.ee/dineth_panditha" target="_blank">
+        <img src="https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=FF0055" alt="Linktree">
+    </a>
+    <a href="https://www.zeeventures.lk/" target="_blank">
+        <img src="https://img.shields.io/badge/CONSULTATION-000000?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Zeeventures">
+    </a>
+ </p>
+
 </div>
-
-<h3 align="center">
-  <a href="https://dinethpanditha.dev" target="_blank">Visit My Portfolio</a>
-</h3>
-
-<p align="center">
-  <a href="https://linktr.ee/dineth_panditha" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+%26+Mobile+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
 
 ---
 
-## 🚀 About Me
-<img align="right" alt="Coding" width="200" src="https://github.com/dineth-panditha/dineth-panditha/blob/main/coding.gif">
-
-- 🌱 I’m currently pursuing a **B.Eng. (Hons) in Software Engineering** at **London Metropolitan University**
-- 📫 Reach me at: **dinethpanditha@outlook.com**
-- 💻 Need a free consultation? Visit [zeeventures](https://www.zeeventures.lk/)
-- 🌐 Explore my projects on [GitHub](https://github.com/dineth-panditha)
-
-
-
-## 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dineth-panditha&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-panditha&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineth-panditha&theme=react" alt="Profile Details" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dineth-panditha&theme=react&utcOffset=8" alt="Productive Time" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 📡 Transmission Data
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Futuristic HUD">
+
+</td>
+<td width="50%" valign="top">
+
+## 👨‍💻 User Profile
+<br>
+
+> **Status:** Online 🟢
+> <br>**Current Objective:** B.Eng (Hons) Software Engineering
+> <br>**Location:** London Metropolitan University
+
+<br>
+
+* 🚀 **Core Focus:** Building scalable Web & Mobile architectures.
+* 💬 **Comms:** `contact@dinethpanditha.com`
+* 🛠️ **Current Project:** Exploring Next.js & Cloud styling.
+* ⚡ **Fun Fact:** I turn coffee into code.
+
+</td>
+</tr>
+</table>
+
 </div>
 
-## 🛠️ Languages and Tools
+---
+
+## 📊 System Diagnostics
 
 <div align="center">
-  <code><img height="40" src="https://skillicons.dev/icons?i=react" alt="React"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=nest" alt="Nest"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=next" alt="Next.js"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=express" alt="Express"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=java" alt="Java"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=spring" alt="Spring"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=angular" alt="Angular"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=dotnet" alt=".NET"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=materialui" alt="Material UI"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=python" alt="python"></code>
-  
-  <br>
-  <br>
-  <code><img height="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=firebase" alt="Firebase"></code>
-  <br>
-  <br>
-  <code><img height="40" src="https://skillicons.dev/icons?i=figma" alt="Figma"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=xd" alt="Adobe XD"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=rider" alt="rider"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=postman" alt="Postman"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=pycharm" alt="pycharm"></code>
-  <code><img height="40" src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio"></code>
+  <img src="https://github-readme-stats.vercel.app/api?username=dineth-panditha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Dineth's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-panditha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineth-panditha&theme=radical" alt="Profile Details" />
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### `Frontend Core`
+<img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
+
+### `Backend & Database`
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,dotnet,python,mongodb,mysql,firebase,hibernate&theme=dark" alt="Backend" />
+
+### `DevOps & Tools`
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,xd,photoshop,idea,vscode,rider,visualstudio,pycharm&theme=dark" alt="Tools" />
+
 </div>
 
 <br/>
 
----
-
-## 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-
-<h5 align="center">
-  Thank you for visiting my GitHub profile! 🤝 Have a great day!
-</h5>
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <h5 align="center">Terminating Session... Have a great day! 👾</h5>
+</div>
