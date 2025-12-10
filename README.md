@@ -6,14 +6,8 @@
     <a href="https://www.dinethpanditha.com/" target="_blank">
         <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=00F0FF&borderColor=00F0FF" alt="Portfolio">
     </a>
-    <a href="mailto:contact@dinethpanditha.com">
-        <img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF00" alt="Email">
-    </a>
     <a href="https://linktr.ee/dineth_panditha" target="_blank">
         <img src="https://img.shields.io/badge/LINKTREE-000000?style=for-the-badge&logo=linktree&logoColor=FF0055" alt="Linktree">
-    </a>
-    <a href="https://www.zeeventures.lk/" target="_blank">
-        <img src="https://img.shields.io/badge/CONSULTATION-000000?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Zeeventures">
     </a>
  </p>
 
@@ -43,10 +37,11 @@
 
 <br>
 
-* 🚀 **Core Focus:** Building scalable Web & Mobile architectures.
-* 💬 **Comms:** `contact@dinethpanditha.com`
-* 🛠️ **Current Project:** Exploring Next.js & Cloud styling.
-* ⚡ **Fun Fact:** I turn coffee into code.
+**📬 Contact Uplink:**
+
+* 📧 **Email:** `contact@dinethpanditha.com`
+* 🌐 **Website:** [dinethpanditha.com](https://www.dinethpanditha.com/)
+* 💼 **Consultation:** [zeeventures.lk](https://www.zeeventures.lk/)
 
 </td>
 </tr>
@@ -59,10 +54,12 @@
 ## 📊 System Diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineth-panditha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Dineth's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineth-panditha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineth-panditha&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dineth-panditha&theme=tokyonight" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dineth-panditha&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineth-panditha&theme=tokyonight" alt="Profile Details" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineth-panditha&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -75,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
 
 ### `Backend & Database`
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,dotnet,python,mongodb,mysql,firebase,hibernate&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,java,spring,python,mongodb,mysql,firebase,hibernate&theme=dark" alt="Backend" />
 
 ### `DevOps & Tools`
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,xd,photoshop,idea,vscode,rider,visualstudio,pycharm&theme=dark" alt="Tools" />
